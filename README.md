@@ -153,9 +153,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourgithub](https://github.com/yourgithub)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: (https://github.com/lilciddump-pixel)
+- Email: cjbairbad@gmail.com
 
 ---
 
