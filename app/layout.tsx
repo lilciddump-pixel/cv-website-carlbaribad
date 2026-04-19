@@ -15,10 +15,10 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Alex Chen | Full Stack Developer',
+  title: 'Carl Baribad | Full Stack Developer',
   description: 'Full Stack Developer specializing in building exceptional digital experiences. Passionate about creating elegant solutions to complex problems.',
   keywords: ['Full Stack Developer', 'Software Engineer', 'React', 'Next.js', 'TypeScript'],
-  authors: [{ name: 'Alex Chen' }],
+  authors: [{ name: 'Carl Baribad' }],
   icons: {
     icon: [
       {
