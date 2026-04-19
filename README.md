@@ -154,8 +154,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Your Name**
 - GitHub: (https://github.com/lilciddump-pixel)
-- Email: cjbairbad@gmail.com
+- Email: cjbaribad@gmail.com
 
 ---
 
 **Built with AI** 🤖 using v0.dev
+w
