@@ -135,13 +135,12 @@ cv-website-carlbaribad/
 ## 📸 Screenshots
 
 ### Light Mode
-[Light mode screenshot]
+![Light Mode](public/lightmode.png)
 
 ### Dark Mode
-[Dark mode screenshot]
+![Dark Mode](public/darkmode.png)
 
-### Mobile View
-[Mobile screenshot]
+
 
 ## 🤝 Contributing
 
